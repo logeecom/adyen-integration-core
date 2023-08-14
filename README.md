@@ -1,1 +1,3 @@
-# adyen-integration-core
+#Introduction
+
+Adyen's integration core.
